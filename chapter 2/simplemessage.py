@@ -1,0 +1,2 @@
+message = "Asalamualikum"
+print(message)
